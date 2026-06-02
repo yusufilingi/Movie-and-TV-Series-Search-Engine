@@ -1,4 +1,4 @@
-#  Film ve Dizi Arama Motoru
+#  Movie and TV Series Search Engine
 
 A Streamlit-based web application for searching movies and TV series using the OMDB API, with multi-filter support and detailed information display.
 
